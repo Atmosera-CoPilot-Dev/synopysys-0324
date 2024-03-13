@@ -1,5 +1,5 @@
 <!-- 
-This document describes a course on C++ for Begginers.
+This document describes a course on C++ for Synopsys employees.
 It assumes a basic knowledge of programming, but no previous experience with C++.
 -->
 
